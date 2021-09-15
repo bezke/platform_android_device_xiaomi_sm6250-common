@@ -97,7 +97,7 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    Snap
+    GoogleCamera
 
 # Component overrides
 PRODUCT_COPY_FILES += \
